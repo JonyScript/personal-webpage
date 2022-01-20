@@ -78,23 +78,6 @@ html {
   box-shadow: 0 3rem 6rem rgba(0, 0, 0, 0.3);
   transition: all 0.4s;
 }
-/* .presentation-card:hover {
-  transform: translateY(-0.5rem);
-} */
-/* .presentation-card::after {
-  content: "";
-  position: absolute;
-  background: var(--fourth-color);
-  width: 60rem;
-  height: 15rem;
-  z-index: 10;
-  transition: all 0.4s;
-  bottom: 1rem;
-  border-radius: 0 0 1rem 1rem;
-} */
-/* .presentation-card:hover::after {
-  transform: translateY(15rem);
-} */
 .image-container {
   display: flex;
   flex-wrap: wrap;
